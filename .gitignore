@@ -1,0 +1,10 @@
+# Datos originales de Kaggle (demasiado pesados y no son nuestros)
+datos/train.csv
+datos/holidays_events.csv
+datos/stores.csv
+datos/transactions.csv
+
+# Archivos del sistema
+.DS_Store
+__pycache__/
+*.pyc
